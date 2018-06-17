@@ -1,0 +1,5 @@
+{
+    "maxValue": 50,
+    "maxResult": 100,
+    "operators": ["+", "-", "*", "/"]
+}

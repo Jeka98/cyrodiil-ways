@@ -1,0 +1,279 @@
+[{
+        "word": "apple",
+        "translation": ["яблоко", "яблочко"],
+        "img": "apple.jpg"
+    }, {
+        "word": "pear",
+        "translation": ["груша"],
+        "img": "pear.jpg"
+    }, {
+        "word": "orange",
+        "translation": ["апельсин", "оранжевый"],
+        "img": "orange.jpg"
+    }, {
+        "word": "banana",
+        "translation": ["банан", "бананчик"],
+        "img": "banana.jpg"
+    }, {
+        "word": "lemon",
+        "translation": ["лемон", "лемончик"],
+        "img": "lemon.jpg"
+    }, {
+        "word": "pineapple",
+        "translation": ["ананас", "ананасик"],
+        "img": "pineapple.jpg"
+    }, {
+        "word": "grapes",
+        "translation": ["виноград", "виноградик"]
+    }, {
+        "word": "kiwi",
+        "translation": ["киви"]
+    }, {
+        "word": "tangerine",
+        "translation": ["мандарин", "мандаринчик"]
+    }, {
+        "word": "carrot",
+        "translation": ["морковь", "морковка"]
+    }, {
+        "word": "onion",
+        "translation": ["лук"]
+    }, {
+        "word": "garlic",
+        "translation": ["чеснок"]
+    }, {
+        "word": "tomato",
+        "translation": ["помидор", "помидорка"]
+    }, {
+        "word": "cabbage",
+        "translation": ["капуста"]
+    }, {
+        "word": "potato",
+        "translation": ["картофель", "картошка"]
+    }, {
+        "word": "cucumber",
+        "translation": ["огурец"]
+    }, {
+        "word": "dog",
+        "translation": ["собака", "пес", "пёс", "песик", "пёсик"]
+    }, {
+        "word": "cat",
+        "translation": ["кот", "котик", "кошка", "кошечка"]
+    }, {
+        "word": "snake",
+        "translation": ["змея", "змейка", "змей"]
+    }, {
+        "word": "hamster",
+        "translation": ["хомяк", "хомячок"]
+    }, {
+        "word": "rabbit",
+        "translation": ["кролик", "заяц", "зайчик"]
+    }, {
+        "word": "budgie",
+        "translation": ["волнистый попугайчик", "попугай", "попугайчик", "волнистый попугай"]
+    }, {
+        "word": "goat",
+        "translation": ["козел", "козлик", "коза", "козочка"]
+    }, {
+        "word": "pig",
+        "translation": ["свинья", "свинка", "поросенок", "хрюшка", "молодая свинья"]
+    }, {
+        "word": "sheep",
+        "translation": ["овца", "баран", "овечка", "барашек"]
+    }, {
+        "word": "horse",
+        "translation": ["лошадь", "лошадка", "конь", "коник"]
+    }, {
+        "word": "cow",
+        "translation": ["корова", "коровка"]
+    }, {
+        "word": "ox",
+        "translation": ["бык", "бычок"]
+    }, {
+        "word": "goose",
+        "translation": ["гусь", "гусыня"]
+    }, {
+        "word": "chicken",
+        "translation": ["курица", "курочка", "цыпленок", "петух"]
+    }, {
+        "word": "duck",
+        "translation": ["утка", "уточка"]
+    }, {
+        "word": "fox",
+        "translation": ["лиса", "лис", "лисичка"]
+    }, {
+        "word": "wolf",
+        "translation": ["волк", "волчок"]
+    }, {
+        "word": "bear",
+        "translation": ["медведь", "медведица"]
+    }, {
+        "word": "hare",
+        "translation": ["заяц", "зайчик", "кролик"]
+    }, {
+        "word": "elephant",
+        "translation": ["слон", "слоник", "слониха"]
+    }, {
+        "word": "tiger",
+        "translation": ["тигр"]
+    }, {
+        "word": "lion",
+        "translation": ["лев"]
+    }, {
+        "word": "crocodile",
+        "translation": ["крокодил"]
+    }, {
+        "word": "giraffe",
+        "translation": ["жираф", "жирафик"]
+    }, {
+        "word": "car",
+        "translation": ["машина", "автомобиль"]
+    }, {
+        "word": "taxi",
+        "translation": ["такси"]
+    }, {
+        "word": "bus",
+        "translation": ["автобус"]
+    }, {
+        "word": "train",
+        "translation": ["поезд", "состав"]
+    }, {
+        "word": "plane",
+        "translation": ["самолет", "самолетик"]
+    }, {
+        "word": "ship",
+        "translation": ["корабль", "кораблик"]
+    }, {
+        "word": "doctor",
+        "translation": ["доктор", "врач"]
+    }, {
+        "word": "teacher",
+        "translation": ["учитель", "учительница"]
+    }, {
+        "word": "policeman",
+        "translation": ["полицейский", "милиционер"]
+    }, {
+        "word": "scientist",
+        "translation": ["ученый"]
+    }, {
+        "word": "hairdresser",
+        "translation": ["парикмахер"]
+    }, {
+        "word": "bedroom",
+        "translation": ["спальня"]
+    }, {
+        "word": "kitchen",
+        "translation": ["кухня"]
+    }, {
+        "word": "bathroom",
+        "translation": ["ванная комната"]
+    }, {
+        "word": "attic",
+        "translation": ["чердак", "мансарда"]
+    }, {
+        "word": "garage",
+        "translation": ["гараж"]
+    }, {
+        "word": "head",
+        "translation": ["голова"]
+    }, {
+        "word": "hair",
+        "translation": ["волосы"]
+    }, {
+        "word": "eyes",
+        "translation": ["глаза", "глазки"]
+    }, {
+        "word": "nose",
+        "translation": ["нос", "носик"]
+    }, {
+        "word": "teeth",
+        "translation": ["зубы", "зубки"]
+    }, {
+        "word": "lips",
+        "translation": ["губы", "губки"]
+    }, {
+        "word": "ears",
+        "translation": ["уши", "ушки"]
+    }, {
+        "word": "neck",
+        "translation": ["шея", "шейка"]
+    }, {
+        "word": "shoulders",
+        "translation": ["плечи"]
+    }, {
+        "word": "leg",
+        "translation": ["нога"]
+    }, {
+        "word": "foot",
+        "translation": ["ступня", "нога"]
+    }, {
+        "word": "red",
+        "translation": ["красный"]
+    }, {
+        "word": "green",
+        "translation": ["зеленый"]
+    }, {
+        "word": "blue",
+        "translation": ["синий", "голубой", "лазурный"]
+    }, {
+        "word": "pink",
+        "translation": ["розовый"]
+    }, {
+        "word": "grey",
+        "translation": ["серый"]
+    }, {
+        "word": "black",
+        "translation": ["черный"]
+    }, {
+        "word": "purple",
+        "translation": ["пурпурный", "фиолетовый", "багровый"]
+    }, {
+        "word": "brown",
+        "translation": ["коричневый"]
+    }, {
+        "word": "dress",
+        "translation": ["платье"]
+    }, {
+        "word": "skirt",
+        "translation": ["юбка"]
+    }, {
+        "word": "blouse",
+        "translation": ["блузка", "кофта", "кофточка"]
+    }, {
+        "word": "jeans",
+        "translation": ["джинсы"]
+    }, {
+        "word": "trousers",
+        "translation": ["брюки", "штаны"]
+    }, {
+        "word": "go",
+        "translation": ["идти", "ходить"]
+    },
+    {
+        "word": "walk",
+        "translation": ["гулять"]
+    },
+    {
+        "word": "run",
+        "translation": ["бегать", "бежать"]
+    },
+    {
+        "word": "jump",
+        "translation": ["прыгать"]
+    },
+    {
+        "word": "swim",
+        "translation": ["плавать"]
+    },
+    {
+        "word": "climb",
+        "translation": ["лазать", "корабкаться"]
+    },
+    {
+        "word": "sit",
+        "translation": ["сидеть"]
+    },
+    {
+        "word": "stand",
+        "translation": ["стоять"]
+    }
+]

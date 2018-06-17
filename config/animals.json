@@ -1,0 +1,43 @@
+{
+    "criterions": [{
+        "title": "typeOfFood",
+        "variants": ["травоядное", "хищник", "всеядное"]
+    }],
+    "animals": [{
+        "name": "жираф",
+        "typeOfFood": "травоядное"
+    }, {
+        "name": "лев",
+        "typeOfFood": "хищник"
+    }, {
+        "name": "корова",
+        "typeOfFood": "травоядное"
+    }, {
+        "name": "кролик",
+        "typeOfFood": "травоядное"
+    }, {
+        "name": "тигр",
+        "typeOfFood": "хищник"
+    }, {
+        "name": "волк",
+        "typeOfFood": "хищник"
+    }, {
+        "name": "олень",
+        "typeOfFood": "травоядное"
+    }, {
+        "name": "мышь",
+        "typeOfFood": "всеядное"
+    }, {
+        "name": "медведь",
+        "typeOfFood": "всеядное"
+    }, {
+        "name": "бобр",
+        "typeOfFood": "травоядное"
+    }, {
+        "name": "слон",
+        "typeOfFood": "травоядное"
+    }, {
+        "name": "тюлень",
+        "typeOfFood": "хищник"
+    }]
+}

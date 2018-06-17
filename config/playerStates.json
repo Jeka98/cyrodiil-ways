@@ -1,0 +1,30 @@
+{
+    "idle": {
+        "default": true,
+        "numberOfFrames": 5,
+        "start": 0,
+        "width": 271,
+        "height": 286
+    },
+    "attack": {
+        "numberOfFrames": 5,
+        "soundFrame": 0,
+        "start": 286,
+        "width": 480,
+        "height": 332
+    },
+    "hurt": {
+        "numberOfFrames": 5,
+        "soundFrame": 0,
+        "start": 618,
+        "width": 340,
+        "height": 308
+    },
+    "die": {
+        "name": "die",
+        "numberOfFrames": 5,
+        "start": 926,
+        "width": 255,
+        "height": 299
+    }
+}

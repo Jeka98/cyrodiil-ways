@@ -1,0 +1,66 @@
+{
+    "idle": {
+        "default": true,
+        "numberOfFrames": 7,
+        "frames": [
+            { "leftArmRotate": 0.01, "rightArmRotate": -0.01, "rheadRotate": 0.01 },
+            { "leftArmRotate": 0.02, "rightArmRotate": -0.02, "rheadRotate": 0.02 },
+            { "leftArmRotate": 0.03, "rightArmRotate": -0.03, "rheadRotate": 0.03 },
+            { "leftArmRotate": 0.04, "rightArmRotate": -0.04, "rheadRotate": 0.04 },
+            { "leftArmRotate": 0.03, "rightArmRotate": -0.03, "rheadRotate": 0.03 },
+            { "leftArmRotate": 0.02, "rightArmRotate": -0.02, "rheadRotate": 0.02 },
+            { "leftArmRotate": 0.01, "rightArmRotate": -0.01, "rheadRotate": 0.01 }
+        ]
+    },
+    "hurt": {
+        "numberOfFrames": 5,
+        "soundFrame": 2,
+        "frames": [
+            { "leftArmRotate": -0.06, "rightArmRotate": -0.06, "rheadRotate": 0.15, "bodyRotate": 0.03, "rightLegRotate": -0.03, "difX": 3, "difY": 3 },
+            { "leftArmRotate": -0.14, "rightArmRotate": -0.14, "rheadRotate": 0.35, "bodyRotate": 0.07, "rightLegRotate": -0.07, "difX": 7, "difY": 7 },
+            { "leftArmRotate": -0.1, "rightArmRotate": -0.1, "rheadRotate": 0.25, "bodyRotate": 0.05, "rightLegRotate": -0.05, "difX": 5, "difY": 5 },
+            { "leftArmRotate": -0.06, "rightArmRotate": -0.06, "rheadRotate": 0.15, "bodyRotate": 0.03, "rightLegRotate": -0.03, "difX": 3, "difY": 3 },
+            { "leftArmRotate": -0.02, "rightArmRotate": -0.02, "rheadRotate": 0.05, "bodyRotate": 0.01, "rightLegRotate": -0.01, "difX": 1, "difY": 1 }
+        ]
+    },
+    "attack": {
+        "numberOfFrames": 10,
+        "soundFrame": 5,
+        "activeFrame": 6,
+        "frames": [
+            { "leftArmRotate": 0.3, "rightArmRotate": -0.02, "bodyRotate": -0.01, "rightLegRotate": -0.03, "difX": -1 },
+            { "leftArmRotate": 0.6, "rightArmRotate": -0.04, "bodyRotate": -0.02, "rightLegRotate": -0.06, "difX": -2 },
+            { "leftArmRotate": 0.9, "rightArmRotate": -0.06, "bodyRotate": -0.03, "rightLegRotate": -0.09, "difX": -3 },
+            { "leftArmRotate": 1.2, "rightArmRotate": -0.08, "bodyRotate": -0.04, "rightLegRotate": -0.12, "difX": -4 },
+            { "leftArmRotate": 1.5, "rightArmRotate": -0.1, "bodyRotate": -0.05, "rightLegRotate": -0.15, "difX": -5 },
+            { "leftArmRotate": 1.8, "rightArmRotate": -0.12, "bodyRotate": -0.06, "rightLegRotate": -0.18, "difX": -6 },
+            { "leftArmRotate": 2.1, "rightArmRotate": -0.14, "bodyRotate": -0.07, "rightLegRotate": -0.21, "difX": -7 },
+            { "leftArmRotate": 1.4, "rightArmRotate": -0.1, "bodyRotate": -0.05, "rightLegRotate": -0.15, "difX": -5 },
+            { "leftArmRotate": 0.4, "rightArmRotate": -0.06, "bodyRotate": -0.03, "rightLegRotate": -0.09, "difX": -3 },
+            { "leftArmRotate": 0.2, "rightArmRotate": -0.02, "bodyRotate": -0.01, "rightLegRotate": -0.03, "difX": -1 }
+        ]
+    },
+    "die": {
+        "numberOfFrames": 18,
+        "frames": [
+            {},
+            { "leftArmRotate": -0.02, "rightArmRotate": -0.02, "rheadRotate": 0.05, "bodyRotate": 0.01, "rightLegRotate": -0.01, "difX": 1, "difY": 1 },
+            { "leftArmRotate": -0.04, "rightArmRotate": -0.04, "rheadRotate": 0.1, "bodyRotate": 0.02, "rightLegRotate": -0.02, "difX": 2, "difY": 2 },
+            { "leftArmRotate": -0.06, "rightArmRotate": -0.06, "rheadRotate": 0.15, "bodyRotate": 0.03, "rightLegRotate": -0.03, "difX": 3, "difY": 3 },
+            { "leftArmRotate": -0.08, "rightArmRotate": -0.08, "rheadRotate": 0.2, "bodyRotate": 0.04, "rightLegRotate": -0.04, "difX": 4, "difY": 4 },
+            { "leftArmRotate": -0.1, "rightArmRotate": -0.1, "rheadRotate": 0.25, "bodyRotate": 0.05, "rightLegRotate": -0.05, "difX": 5, "difY": 5 },
+            { "leftArmRotate": -0.12, "rightArmRotate": -0.12, "rheadRotate": 0.3, "bodyRotate": 0.06, "rightLegRotate": -0.06, "difX": 6, "difY": 6 },
+            { "leftArmRotate": -0.14, "rightArmRotate": -0.14, "rheadRotate": 0.35, "bodyRotate": 0.07, "rightLegRotate": -0.07, "difX": 7, "difY": 7 },
+            { "leftArmRotate": -0.16, "rightArmRotate": -0.14, "rheadRotate": 0.4, "bodyRotate": 0.07, "rightLegRotate": -0.07, "leftLegRotate": -0.03, "difX": 7, "difY": 7, "monsterRotate": 0.5 },
+            { "leftArmRotate": -0.18, "rightArmRotate": -0.14, "rheadRotate": 0.45, "bodyRotate": 0.07, "rightLegRotate": -0.07, "leftLegRotate": -0.06, "difX": 7, "difY": 7, "monsterRotate": 0.7 },
+            { "leftArmRotate": -0.2, "rightArmRotate": -0.14, "rheadRotate": 0.5, "bodyRotate": 0.07, "rightLegRotate": -0.07, "leftLegRotate": -0.09, "difX": 7, "difY": 7, "monsterRotate": 0.9 },
+            { "leftArmRotate": -0.22, "rightArmRotate": -0.14, "rheadRotate": 0.55, "bodyRotate": 0.07, "rightLegRotate": -0.07, "leftLegRotate": -0.12, "difX": 7, "difY": 7, "monsterRotate": 1 },
+            { "leftArmRotate": -0.24, "rightArmRotate": -0.14, "rheadRotate": 0.6, "bodyRotate": 0.07, "rightLegRotate": -0.07, "leftLegRotate": -0.15, "difX": 7, "difY": 7, "monsterRotate": 1.2 },
+            { "leftArmRotate": -0.26, "rightArmRotate": -0.14, "rheadRotate": 0.35, "bodyRotate": 0.07, "rightLegRotate": -0.07, "leftLegRotate": -0.15, "difX": 7, "difY": 7, "monsterRotate": 1.5 },
+            { "leftArmRotate": -0.26, "rightArmRotate": -0.14, "rheadRotate": 0.35, "bodyRotate": 0.07, "rightLegRotate": -0.07, "leftLegRotate": -0.15, "difX": 7, "difY": 7, "monsterRotate": 1.5 },
+            { "leftArmRotate": -0.26, "rightArmRotate": -0.14, "rheadRotate": 0.35, "bodyRotate": 0.07, "rightLegRotate": -0.07, "leftLegRotate": -0.15, "difX": 7, "difY": 7, "monsterRotate": 1.5 },
+            { "leftArmRotate": -0.26, "rightArmRotate": -0.14, "rheadRotate": 0.35, "bodyRotate": 0.07, "rightLegRotate": -0.07, "leftLegRotate": -0.15, "difX": 7, "difY": 7, "monsterRotate": 1.5 },
+            { "leftArmRotate": -0.26, "rightArmRotate": -0.14, "rheadRotate": 0.35, "bodyRotate": 0.07, "rightLegRotate": -0.07, "leftLegRotate": -0.15, "difX": 7, "difY": 7, "monsterRotate": 1.5 }
+        ]
+    }
+}
